@@ -21,7 +21,7 @@ public class AmazonWebApp {
        windows.price = 800.0f;
        windows.storage = 150;
        windows.storageUnit = "GB";
-       windows.serialNumber = "3459qwe"
+       windows.serialNumber = "3459qwe";
 
 
     }

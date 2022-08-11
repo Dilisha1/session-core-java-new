@@ -1,5 +1,6 @@
 package day2;
 
+
 public class BankOfAmerica {
     public static void main(String[] args) {
         BankAccount dilishaAccount = new BankAccount();
@@ -15,8 +16,17 @@ public class BankOfAmerica {
 
 
 
-        System.out.println(dilishaAccount.socialSecurityNumber);
+       //  System.out.println(dilishaAccount.socialSecurityNumber());
         System.out.println(dilishaAccount.getAccountNumber());
+        System.out.println(dilishaAccount.getAccountBalance());
+        System.out.println(dilishaAccount.getAccountType());
+        System.out.println(dilishaAccount.getAccountHolderName());
+        System.out.println(dilishaAccount.getBankName());
+        System.out.println(dilishaAccount.getAddress());
+        System.out.println(dilishaAccount.getBsbNumber());
+        System.out.println(dilishaAccount.getConnectedMobileNumber());
+
+
 
 
 
