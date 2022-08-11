@@ -1,7 +1,7 @@
 package day2;
 
 
-public class BankOfAmerica {
+class BankOfAmerica {
     public static void main(String[] args) {
         BankAccount dilishaAccount = new BankAccount();
 
