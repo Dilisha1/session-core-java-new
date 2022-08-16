@@ -2,7 +2,7 @@ package day4;
 
 public class Student extends Person {
     int rollNumber;
-    String studentClass;
+    int studentClass;
 
     public int getRollNumber() {
         return rollNumber;
@@ -12,11 +12,11 @@ public class Student extends Person {
         this.rollNumber = rollNumber;
     }
 
-    public String getStudentClass() {
+    public int getStudentClass() {
         return studentClass;
     }
 
-    public void setStudentClass(String studentClass) {
+    public void setStudentClass(int studentClass) {
         this.studentClass = studentClass;
     }
 }
