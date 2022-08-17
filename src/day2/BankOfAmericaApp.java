@@ -1,6 +1,13 @@
 package day2;
 
-class BankOfAmerica {
+/**
+ * This Application is for Online Banking
+ *
+ * @author Dilisha
+ * @version 2.0.0
+ * @since 1.0
+ */
+ public class BankOfAmericaApp {
     public static void main(String[] args) {
         BankAccount dilishaAccount = new BankAccount();
 

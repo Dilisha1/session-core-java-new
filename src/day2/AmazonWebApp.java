@@ -1,4 +1,11 @@
 package day2;
+/**
+ * This Application is for Online Shopping
+ *
+ * @author Dilisha
+ * @version 2.0.0
+ * @since 1.0
+ */
 
 public class AmazonWebApp {
 
