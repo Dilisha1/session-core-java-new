@@ -26,7 +26,7 @@ public class MarkSheet {
 
        System.out.println("Distinction : " + isDistinction);
        System.out.println("First Division : " + isFirstDivision);
-       System.out.println("Second Division : " + isFirstDivision);
+       System.out.println("Second Division : " + isSecondDivision);
        System.out.println("Third Division : " + isThirdDivision);
        System.out.println("Fail : " + isFail);
 
